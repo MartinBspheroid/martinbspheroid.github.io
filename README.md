@@ -6,7 +6,7 @@ studoval Fakultu výtvarných Umění VUT v Brně.
 
 Direct Film - postprodukce, motion graphics (2011-2013)
 
-Bastl Instruments - R&amp;D, development assistent (2015-2016)
+[Bastl Instruments](http://www.bastl-instruments.com/) - R&amp;D, development assistent (2015-2016)
 
 ## Technická realizace
 
@@ -32,17 +32,20 @@ Bastl Instruments - R&amp;D, development assistent (2015-2016)
  
 2016 Alžběta Chmelíková - [Sand Traps](https://vimeo.com/189376841) - interaktivní audiovizuální projekce na festivalu Biela Noc v Košicích a Bratislavě 
 
-2017 Alžběta Chmelíková - [Sand Traps](https://vimeo.com/189376841) - interaktivní audiovizuální projekce na festivalu Biela Noc v Košicích a Bratislavě 
+2017 Alžběta Chmelíková  - [THROUGHOUT THE LINES](https://vimeo.com/189376841) - audiovizuální interaktivní aplikace 
 
 2012-2017 HeldenKelllerz - VJing na akcích brněnské hudební crew
 
 ## Autorská tvorba
 
-Lost &amp; Found - projekce a autorský soundtrack jako pocta klasickým scifi filmům</li>
-Bez názvu - interaktivní mapping na podlahu ateliéru Karla Zemana v rámci Design Weeku 2015 ve Zlíně</li>
-Asynchronicita - společná výstava s Tomášem Sedláčkem</li>
+Lost &amp; Found - projekce a autorský soundtrack jako pocta klasickým scifi filmům
+
+2015 - Bez názvu - interaktivní mapping na podlahu ateliéru Karla Zemana v rámci Design Weeku 2015 ve Zlíně
+
+2012 - [Asynchronicita](http://artalk.cz/2012/09/09/tz-martin-blasko-a-tomas-sedlacek/) - společná výstava s Tomášem Sedláčkem</li>
 
 ## Výuka
 
-Kinoškola - výuka základů animace pro děti a základy zvukových triků v Kině Art v Brně.</li>
-Processing - pravidelná výuka základů kreativního programování na půdě Fakulty Výtvarných umění v Brně</li>
+2015 - 2016 [Kinoškola](https://www.facebook.com/kinoskolabrno/?fref=ts) - výuka základů animace pro děti a základy zvukových triků v Kině Art v Brně.</li>
+
+2014 - 2016 Processing - pravidelná výuka základů kreativního programování na půdě Fakulty Výtvarných umění v Brně</li>
