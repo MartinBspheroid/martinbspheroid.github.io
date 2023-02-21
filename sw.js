@@ -4,8 +4,8 @@ const APP_PREFIX = 'ApplicationName_'     // Identifier for this app (this needs
 const VERSION = 'version_01'              // Version of the off-line cache (change this value everytime you want to update cache)
 const CACHE_NAME = APP_PREFIX + VERSION
 const URLS = [                            // Add URL you want to cache in this list.
-    '/{repository}/',                     // If you have separate JS/CSS files,
-    '/{repository}/index.html'            // add path to those files here
+    '/src/',                     // If you have separate JS/CSS files,
+    '/src/index.html'            // add path to those files here
 ]
 
 // Respond with cached resources

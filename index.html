@@ -3,21 +3,14 @@
 <head>
     <title>Title</title>
     <link rel="canonical" href="https://{guthub_username}.github.io/{repository}/" />
-    <style type="text/css">
-    /* --- application CSS here --- */
-    *{
-      background-color: #000000;
-        color: #ffffff;
-      font-family: Georgia, serif;
-    }
-    </style>
+    <link rel="stylesheet" href="src/style.css">
 </head>
 <body>
   <h1>Content</h1>
   <script>
   // register ServiceWorker, remember to use absolute path!
   if (navigator.serviceWorker) {
-    navigator.serviceWorker.register('/{repository}/sw.js', {scope: '/{repository}/'})
+      navigator.serviceWorker.register('sw.js', { scope: '/{src}/' })
   }
   
   // --- Application code here ---
