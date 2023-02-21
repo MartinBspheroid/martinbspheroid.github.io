@@ -5,7 +5,7 @@ const VERSION = 'version_01'              // Version of the off-line cache (chan
 const CACHE_NAME = APP_PREFIX + VERSION
 const URLS = [                            // Add URL you want to cache in this list.
     '/src/',                     // If you have separate JS/CSS files,
-    '/src/index.html'            // add path to those files here
+    '/src/app.js'            // add path to those files here
 ]
 
 // Respond with cached resources
